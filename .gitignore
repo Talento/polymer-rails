@@ -26,3 +26,4 @@ app/assets/javascripts/webcomponentsjs/*.md
 app/assets/javascripts/webcomponentsjs/*.js
 !app/assets/javascripts/webcomponentsjs/webcomponents.js
 !app/assets/javascripts/webcomponentsjs/webcomponents-lite.js
+.idea/*
